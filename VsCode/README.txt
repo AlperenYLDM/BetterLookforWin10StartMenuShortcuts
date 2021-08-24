@@ -1,0 +1,1 @@
+Rename "Visual Studio Code.lnk" to "VSCode.lnk"
