@@ -12,38 +12,45 @@ Windows10 baþlat menüsündeki klasik kýsayollardan sýkýldýn mý? Ýþte ta
 ## Adobe Audition CC
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JE3wp'))`
 
-![resim](https://user-images.githubusercontent.com/40410104/130528735-4a8dbf45-ce5c-4efe-a7ce-ee579e5ee13b.png) ![resim](https://user-images.githubusercontent.com/40410104/130528716-e46c829e-0f97-49e1-834d-8a12ed8abddf.png)
-
+![resim](https://user-images.githubusercontent.com/40410104/130693975-1d016ab2-e375-4e37-8093-f3cc7918832d.png) ![resim](https://user-images.githubusercontent.com/40410104/130693993-0f63c19e-b05a-4e56-8949-942b195ac26b.png)
 
 ## Battlefield 1
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JE3D3'))`
 
-![resim](https://user-images.githubusercontent.com/40410104/130528825-2aba1208-b1d4-4fe2-a193-f0741d15e748.png) ![resim](https://user-images.githubusercontent.com/40410104/130528835-fb719d58-5ad4-488c-a875-c0b90d6cf25f.png)
+![resim](https://user-images.githubusercontent.com/40410104/130694044-e7a7f866-db11-4378-a360-e6e1034e7525.png) ![resim](https://user-images.githubusercontent.com/40410104/130694072-da116cc2-bd72-4c73-8db0-3a8d00f4de18.png)
 
 ## Discord
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JE3yS'))`
 
-![resim](https://user-images.githubusercontent.com/40410104/130528894-3169d919-4c0e-47d8-a09d-78e0f4c93dc7.png) ![resim](https://user-images.githubusercontent.com/40410104/130528903-41bd8c4c-5a6e-450b-8b7e-7c221607c3e1.png)
+![resim](https://user-images.githubusercontent.com/40410104/130694112-ed8e8ea2-0fb6-45af-868f-88b15eae9e58.png) ![resim](https://user-images.githubusercontent.com/40410104/130694126-2fbd1521-12da-4363-a23b-3f18727e183f.png)
 
 ## Microsoft Edge
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JE3SV'))`
 
-![resim](https://user-images.githubusercontent.com/40410104/130528926-bd6f3ca7-66f0-4579-888c-8aefbcca676f.png) ![resim](https://user-images.githubusercontent.com/40410104/130528938-4792cf6d-d5e7-4c40-9582-dd62a8bfe7a0.png)
+![resim](https://user-images.githubusercontent.com/40410104/130694232-a9d2efde-da3b-4061-aa6a-df5075379eab.png) ![resim](https://user-images.githubusercontent.com/40410104/130694248-f8b583f6-e17a-43b1-81d4-3a2de5bae2f3.png)
 
 ## Epic Games Launcher
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JE39S'))`
 
-![resim](https://user-images.githubusercontent.com/40410104/130528964-7802576c-a0d4-45b5-80d3-038203203b17.png) ![resim](https://user-images.githubusercontent.com/40410104/130528981-fcf908ad-f613-497f-9433-dee6f7a5c9cb.png)
+![resim](https://user-images.githubusercontent.com/40410104/130694284-48336ee2-ac96-4d9d-9ac1-5669ab9b7010.png) ![resim](https://user-images.githubusercontent.com/40410104/130694293-a7bc477c-a287-46e6-9d86-704a0f933221.png)
 
 ## Euro Truck Simulator 2
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JE3FX'))`
 
-![resim](https://user-images.githubusercontent.com/40410104/130529014-8057c18d-a7eb-41ff-bb18-e783f00ff0e4.png) ![resim](https://user-images.githubusercontent.com/40410104/130529036-7823ed5c-9391-468a-b115-106c94a86723.png)
+![resim](https://user-images.githubusercontent.com/40410104/130694319-68a08784-ac43-4c82-85cb-e13abb2a83ee.png) ![resim](https://user-images.githubusercontent.com/40410104/130694334-e1568ba4-0596-41b8-8c12-ac2aedfe2423.png)
+
+## Firefox
+
+![resim](https://user-images.githubusercontent.com/40410104/130694447-36734aa5-699e-4160-a8ae-736e18a21f95.png) ![resim](https://user-images.githubusercontent.com/40410104/130694462-b0570a90-af36-4fb0-96c6-3623a5cb5823.png)
 
 ## Geforce NOW
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JE3Nv'))`
 
 ![resim](https://user-images.githubusercontent.com/40410104/130529084-9340fcad-1e12-4b38-b0be-6cf7b3bcb5d8.png) ![resim](https://user-images.githubusercontent.com/40410104/130529103-b6fc079e-ecc0-484f-b870-6f132f101aac.png)
+
+##HWInfo
+
+![resim](https://user-images.githubusercontent.com/40410104/130694576-b1931920-2d02-4ef1-838b-efbe3a62dc93.png) ![resim](https://user-images.githubusercontent.com/40410104/130694595-99a128d1-61f2-4723-817b-b135d4d7a720.png)
 
 ## HWMonitor
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JE3j6'))`
@@ -55,6 +62,9 @@ Windows10 baþlat menüsündeki klasik kýsayollardan sýkýldýn mý? Ýþte ta
 
 ![resim](https://user-images.githubusercontent.com/40410104/130529151-cc5535f6-f8a8-446c-8dfa-14161e96cb37.png) ![resim](https://user-images.githubusercontent.com/40410104/130529167-a0d1f0ed-8972-4ff5-95ea-a170ce392560.png)
 
+## Photoshop
+
+![resim](https://user-images.githubusercontent.com/40410104/130694653-ba690462-c3c3-4360-8e73-a912dfeba7cb.png) ![resim](https://user-images.githubusercontent.com/40410104/130694665-0038ff48-9af6-4430-860a-507f9bc47d39.png)
 
 ## Radeon Software
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JEsve'))`
@@ -64,12 +74,12 @@ Windows10 baþlat menüsündeki klasik kýsayollardan sýkýldýn mý? Ýþte ta
 ## Rockstar Games Launcher
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JEsfs'))`
 
-![resim](https://user-images.githubusercontent.com/40410104/130529287-c63c14df-7920-498e-9d08-9532daf87910.png) ![resim](https://user-images.githubusercontent.com/40410104/130529305-0082c90d-b076-4e75-9df6-7938018b1bf7.png)
+![resim](https://user-images.githubusercontent.com/40410104/130694690-c4c59de4-f82f-4460-a7a3-1331374f8473.png) ![resim](https://user-images.githubusercontent.com/40410104/130694714-57479640-4328-4027-8b41-5844883368aa.png)
 
 ## Ryzen Master
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JEsmk'))`
 
-![resim](https://user-images.githubusercontent.com/40410104/130529338-3a753ead-855d-4c82-a84e-d5233e9f32e6.png) ![resim](https://user-images.githubusercontent.com/40410104/130529351-a47a6678-5056-44a2-b219-48105957ee6d.png)
+![resim](https://user-images.githubusercontent.com/40410104/130694747-637854d3-ab7c-4196-a1c8-a3dab064d78c.png) ![resim](https://user-images.githubusercontent.com/40410104/130694764-f3a10c90-16a5-4a90-91f4-1cf8ee3caa0a.png)
 
 ## Spotify
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JEsmY'))`
@@ -79,19 +89,19 @@ Windows10 baþlat menüsündeki klasik kýsayollardan sýkýldýn mý? Ýþte ta
 ## Steam
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JEsJk'))`
 
-![resim](https://user-images.githubusercontent.com/40410104/130529505-1bf27a59-0cc9-4fac-b7be-e233c8b8619e.png) ![resim](https://user-images.githubusercontent.com/40410104/130529519-382d43cd-bb0d-45b9-81d3-3895654c5f3f.png)
+![resim](https://user-images.githubusercontent.com/40410104/130694816-531c16d4-31b6-40f0-8ff0-e5de0f03eeb2.png) ![resim](https://user-images.githubusercontent.com/40410104/130694833-53fe6b0e-b72e-4ef5-9b7e-7029c1d1a31a.png)
 
 ## Valorant
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JEsIT'))`
 
-![resim](https://user-images.githubusercontent.com/40410104/130529531-3e836a52-9ed4-4f1f-8992-128bedafbf79.png) ![resim](https://user-images.githubusercontent.com/40410104/130529542-1aad6366-6069-4626-a46d-061803a93b1a.png)
+![resim](https://user-images.githubusercontent.com/40410104/130694865-2e256b9b-76d5-4c63-8332-710ed65860dc.png) ![resim](https://user-images.githubusercontent.com/40410104/130694879-6512c5d3-12cf-4f63-9e0d-f2392ae03b93.png)
 
 ## Visual Studio Code
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JEstB'))`
 
-![resim](https://user-images.githubusercontent.com/40410104/130529563-5e24ba7e-aa05-48c1-8edc-26593bee88db.png) ![resim](https://user-images.githubusercontent.com/40410104/130529578-e2d8f76d-93d3-4f63-b5cf-03357794123c.png)
+![resim](https://user-images.githubusercontent.com/40410104/130694923-892ce782-7373-448f-aa3e-36e461d9ba2c.png) ![resim](https://user-images.githubusercontent.com/40410104/130694937-69f981fc-6ecd-46db-8302-0019593a88d6.png)
 
 ## Witcher 3
 `iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JEsqn'))`
 
-![resim](https://user-images.githubusercontent.com/40410104/130529593-181897f8-cd6f-4531-a633-d8ecf79f1915.png) ![resim](https://user-images.githubusercontent.com/40410104/130529611-26f0db79-f6a3-4dda-8a57-b6623c070575.png)
+![resim](https://user-images.githubusercontent.com/40410104/130694958-5ab05620-c564-4dfc-9b10-1d7cc1aa3671.png) ![resim](https://user-images.githubusercontent.com/40410104/130694980-bbd92c0c-2122-45e1-8c14-c06e729365f3.png)
