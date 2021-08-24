@@ -1,6 +1,6 @@
-# BetterLookWin10StartMenuShortcuts
-Windows10 başlat menüsündeki klasik kısayollardan sıkıldın mı? İşte tam aradığın şey! Her program için olan komutu, Powershell'i yönetici olarak çalıştırarak yürüt. Hepsi bu kadar! \\\ 
-### ÖNCE\BEFORE
+# BetterLookforWin10StartMenuShortcuts
+Windows10 baÃ¾lat menÃ¼sÃ¼ndeki klasik kÃ½sayollardan sÃ½kÃ½ldÃ½n mÃ½? ÃÃ¾te tam aradÃ½Ã°Ã½n Ã¾ey! Her program iÃ§in olan komutu, Powershell'i yÃ¶netici olarak Ã§alÃ½Ã¾tÃ½rarak yÃ¼rÃ¼t. Hepsi bu kadar! \\\ 
+### Ã–NCE\BEFORE
 ![unknown_2021 08 23-21 29 (2)](https://user-images.githubusercontent.com/40410104/130499107-4bc161c7-3a11-4e4a-aba1-ddf85f8e1b59.png)
 ![unknown_2021 08 23-21 31](https://user-images.githubusercontent.com/40410104/130499305-17603895-1ada-46f5-bbc5-1b863131d11c.png)
 
